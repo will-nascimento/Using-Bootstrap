@@ -1,0 +1,25 @@
+*{
+    font: 20px arial sans-serif;
+}
+
+.navbar {
+    background-color: lightblue;
+}
+
+.container-fluid {
+    background-color: lightcoral;
+}
+
+.margin {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.margin2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#quem{
+    color: lightcyan;
+}
