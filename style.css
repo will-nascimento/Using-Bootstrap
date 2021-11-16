@@ -7,12 +7,13 @@
 }
 
 .container-fluid {
-    background-color: lightcoral;
+    font: black;
+    background-color: #a7e3c1;
 }
 
 .margin {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-botton: 20px;
+    margin-top: 20px;
 }
 
 .margin2{
@@ -20,6 +21,12 @@
     padding-bottom: 50px;
 }
 
-#quem{
-    color: lightcyan;
+
+
+.onde{
+    background-color:#a32c28
+}
+
+.footer{
+    background-color: rgb(138, 162, 241);
 }
